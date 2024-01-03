@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Eliman925
-- 👀 I’m interested in Crypto investing, Blockchain Dev, and Entrepreneurship
-- 🌱 I’m currently learning Pharmacy
-- 💞️ I’m looking to collaborate on Blockchain Dev in the nearest future
-- 📫 How to reach me eadeyemo529@gmail.com
+- 👋 Hi there !!!!
+- 👀 I’m the CTO of HPChain.AI (https://www.hpchain.ai/)
+- 🌱 I’m an experienced computer scientist in molecular dynamic simulations, AI and cloud computing
+- 💞️ I’m looking to become expert in blockchain technology and gaming
+- 📫 How to reach me: paolo.lorenzini@hpchain.ai
 
 
 @OSSDAO-ORG•AIRDROP-0xe2688cE06eC8026399aB78Adb6155684315F3Ede
