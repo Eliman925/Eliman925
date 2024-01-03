@@ -2,7 +2,7 @@
 - 👀 I’m the CTO of HPChain.AI (https://www.hpchain.ai/)
 - 🌱 I’m an experienced computational biologist in molecular dynamic simulations, AI and cloud computing
 - 💞️ I’m passionate about merging the natural word with informatics
-- 💞️ I’m looking to become biggest expert in blockchain technology 
+- 💞️ I aim in becoming biggest expert in blockchain technology 
 - 📫 How to reach me: paolo.lorenzini@hpchain.ai
 
 
